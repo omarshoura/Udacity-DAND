@@ -1,17 +1,32 @@
 # (Dataset Exploration Title)
-## by (your name here)
+## by (Omar Shoura)
 
 
 ## Dataset
 
-> Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
+- This dataset is provided by Fordgobike Trips in Feburary 2019 it has total 183412 records.
+
+- I performed some cleaning and tuning to get the users ages and remove the records with missing values also to get the trip duration in minutes instead of seconds and created new columns for start month,day of the week and hour. other than that the dataset in tidy.
 
 
 ## Summary of Findings
 
-> Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
+- For the stations we have top two stations are the same for both start and end stations.
 
+- The members ages are mostly between 20-40.
+
+- The rush hours are at 8 Am and 5 PM.
+
+- Top rush days are Tuesday and Thursday.
+
+- For the rides start hour it's around 3 PM through the whole week that might be for a reason like the end of work day fo employees.
+
+- For the total rides number for customers it has a peak on thursday which might be for a specific reason.
+
+- The Male Subscribers are the dominant users with the highest number of rides over the week.
+
+- The customers' ride duration is higher than the subscriber which wasn't expected as the through all the previous plots we saw that the subscriber have more rides than customers.
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
+- The Multivariate Comparison for Gender Rides & Member Type over the Week sums up a big part of the insights we got from the data as the male subscribers are the most users and the peaks are during Thursday and Tuesday this confirms all the previous insights we got.
