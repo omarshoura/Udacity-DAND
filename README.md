@@ -40,4 +40,4 @@ Learn to apply sound design and data visualization principles to the data analys
 | Part 2 - Intro to Data Analysis | [Investigate a Dataset](https://github.com/omarshoura/Udacity-DAND/tree/master/Projects/Investigate%20a%20Dataset)   |
 | Part 3 - Practical Statistics | [Analyze A/B Test Results Project & Optimize Your GitHub Profile](https://github.com/omarshoura/Udacity-DAND/tree/master/Projects/A-B%20Testing) |
 | Part 4 - Data Wrangling | Wrangle and Analyze Data & Improve Your LinkedIn Profile |
-| Part 5 - Data Visualization  | Communicate Data Findings|
+| Part 5 - Data Visualization  | [Communicate Data Findings](https://github.com/omarshoura/Udacity-DAND/tree/master/Projects/Communicate%20Data%20Findings)|
