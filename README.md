@@ -1,6 +1,7 @@
 ## [Udacity DAND Aug-Feb 2020](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 ---
 
+![Certificarte](Certificate.PNG)
 # PART 1
 
 * Welcome to the Nanodegree program!
