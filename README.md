@@ -1,7 +1,7 @@
 ## [Udacity DAND Aug-Feb 2020](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 ---
-
-![Certificarte](Certificate.PNG)
+## Certificarte 🎉
+![](Certificate.PNG)
 # PART 1
 
 * Welcome to the Nanodegree program!
@@ -34,6 +34,8 @@ Project: Improve Your LinkedIn Profile
 Learn to apply sound design and data visualization principles to the data analysis process. Learn how to use analysis and visualizations to tell a story with data.
 
 * Project: Communicate Data Findings
+
+---
 
 | Part | Project |
 | :------------------ | :-------|
